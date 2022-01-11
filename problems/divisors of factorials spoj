@@ -1,3 +1,4 @@
+#define mod 1000000007
 #define MAX 50005
 bitset<MAX>isPrime;
 vector<int>primes;
